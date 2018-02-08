@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.facebook.fresco:fbcore-1.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/3.3/wrapper/dists/gradle-3.3-all/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/886907014db033f9986a08da476cd0de/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/3.3/wrapper/dists/gradle-3.3-all/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/886907014db033f9986a08da476cd0de/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
